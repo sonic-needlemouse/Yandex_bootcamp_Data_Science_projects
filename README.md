@@ -1,2 +1,10 @@
 # Data_Science_projects
-Yandex praktikum education program in a field of DS
+
+В репозитории представлены учебные проекты Яндекс.Практикум "Специалист по Data Science" по следующим темам:
+
+| № | **Проект** | **Jupyter Notebook** | **Описание** | **Инструменты** |  
+|:--|:-----------|:---------------------|:-------------|:----------------|  
+| 1 | [**Предобработка данных**](https://github.com/AlexeyKulikovZ/Data_Science_projects/blob/main/Telecom%20company%20project/Alexey_Kulikov_telecom_project_for_GitHub.ipynb) | [notebook]| Исследование статистики о платёжеспособности клиентов. Влияние семейного положения и количества детей клиента на факт возврата кредита в срок | - python<br>- pandas<br>- pymystem3 |
+| 2 | [**Исследовательский анализ данных**](https://github.com/andreyi91/DS_projects/tree/master/02.%20%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85) | [notebook](https://nbviewer.jupyter.org/github/andreyi91/DS_projects/blob/master/02.%20%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85/exploratory_data_analysis.ipynb) | Определение рыночной стоимости объектов недвижимости | - python<br>- pandas<br>- matplotlib |  
+| 3 | [**Статистический анализ данных**](https://github.com/andreyi91/DS_projects/tree/master/03.%20%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85) | [notebook](https://nbviewer.jupyter.org/github/andreyi91/DS_projects/blob/master/03.%20%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85/statistical_data_analysis.ipynb) | Анализ тарифов и их пользователей на выборке клиентов мобильного оператора | - python<br>- pandas<br>- scipy<br>- math<br>- matplotlib<br>- seaborn<br>- plotly |  
+
