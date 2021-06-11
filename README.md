@@ -1,15 +1,14 @@
-# Data_Science_projects
+# YandexPraktikum
 
-В репозитории представлен ряд учебных проектов Яндекс Практикум по специальности "Data Science".
+В этой папке представлены учебные проекты с курса Яндекс.Практикума:
 
-| № | **Проект** | **Jupyter Notebook** | **Описание** | **Инструменты** |  
-|:--|:-----------|:---------------------|:-------------|:----------------|  
-| 1 | [**Commercial bank**]
-(https://nbviewer.jupyter.org/github/andreyi91/DS_projects/blob/master/01.%20%D0%9F%D1%80%D0%B5%D0%B4%D0%BE%D0%B1%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85/data_preparation.ipynb) | [notebook](https://nbviewer.jupyter.org/github/andreyi91/DS_projects/blob/master/01.%20%D0%9F%D1%80%D0%B5%D0%B4%D0%BE%D0%B1%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85/data_preparation.ipynb) | Исследование базы данных клиентов коммерческого банка. На основе данных была обучена модель, предсказывающая останется ли клиент в данном банке или откажется от услуг данного банка  | - python<br>- pandas<br>- pymystem3 |
-| 2 | [**Mining company**]
-(https://nbviewer.jupyter.org/github/andreyi91/DS_projects/blob/master/01.%20%D0%9F%D1%80%D0%B5%D0%B4%D0%BE%D0%B1%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85/data_preparation.ipynb) | [notebook]
-(https://nbviewer.jupyter.org/github/andreyi91/DS_projects/blob/master/01.%20%D0%9F%D1%80%D0%B5%D0%B4%D0%BE%D0%B1%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85/data_preparation.ipynb) | Построение модели для предсказания коэффциента очистки сырья на производсвте | - python<br>- pandas<br>- matplotlib |  
-| 3 | [**Telecom company**](https://nbviewer.jupyter.org/github/andreyi91/DS_projects/blob/master/01.%20%D0%9F%D1%80%D0%B5%D0%B4%D0%BE%D0%B1%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85/data_preparation.ipynb) | [notebook](https://nbviewer.jupyter.org/github/andreyi91/DS_projects/blob/master/01.%20%D0%9F%D1%80%D0%B5%D0%B4%D0%BE%D0%B1%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85/data_preparation.ipynb) | Анализ тарифов и их пользователей на выборке клиентов мобильного оператора | - python<br>- pandas<br>- scipy<br>- math<br>- matplotlib<br>- seaborn<br>- plotly |  
+
+|	Проект |	Задача проекта	|	Использованные инструменты |
+|:-----|:---|:---|
+|[Моделирование оттока клиента из коммерческого банка](https://github.com/AlexeyKulikovZ/Data_Science_projects/tree/main/Telecom%20company)| Нужно спрогнозировать, уйдёт клиент из банка в ближайшее время или нет. Нам предоставлены исторические данные о поведении клиентов и расторжении договоров с банком.	| Предобработка данных, исследовательский анализ данных, описательная статистика, Pandas, Numpy, Matplotlib, Seaborn, sklearn.|
+ | [Подготовка модели для предприятия по очистки руды](https://github.com/AlexeyKulikovZ/Data_Science_projects/tree/main/Mining%20company)| Разработка модели, прогнозирующей коэффициент восстановления золота из золотосодержащей руды | Pandas, Numpy, Matplotlib, Seaborn, sklearn |
+ | [Анализ тарифных планов телекоммуникационной компании](https://github.com/AlexeyKulikovZ/Data_Science_projects/tree/main/Commercial%20bank) | Необходимо сделать анализ тарифов на небольшой выборке клиентов. Нужно проанализировать поведение клиентов и сделать вывод — какой тариф лучше, с точки зрения финансовой сотавляющей. | Предобработка данных, исследовательский анализ данных, описательная статистика, проверка статистических гипотез, Pandas, Numpy, Matplotlib, Seaborn, SciP. |
+
   
 
 
