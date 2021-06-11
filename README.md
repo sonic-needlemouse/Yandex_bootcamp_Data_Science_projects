@@ -1,4 +1,4 @@
-# YandexPraktikum
+# Data_Science_projects
 
 В этой папке представлены учебные проекты с курса Яндекс.Практикума:
 
