@@ -2,16 +2,16 @@
 
 Forecast of customer churn based on historical data of customers behavior. The goal to get F1 > 0.59.
 ## Goals of the project: 
-Задача получить меру F1 > 0.59 для различных моделей машинного обучения.
+Goal: to get F1 > 0.59 for different ML models.
 ## Instruments & technologies
 - Python
 - Pandas
 - numpy
 - Matplotlib
-- предобработка данных
+- EDA
 - исследовательский анализ данных
-- описательная статистика
-- проверка статистических гипотез
+- descriptive statistics
+- statistical hypotheses
 - Seaborn
 - SciPy
 ## Project finished
