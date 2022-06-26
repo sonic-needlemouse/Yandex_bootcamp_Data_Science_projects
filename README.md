@@ -3,7 +3,7 @@
 This folder contains educational projects in the field of Data Analytics & Data Sciecne of Yandex company bootcamp.
 
 
-|	Проект |	Задача проекта	|	Использованные инструменты |
+|	Projects |	Goals of the project	|	Instruments & technologies |
 |:-----|:---|:---|
 |[Моделирование оттока клиента из коммерческого банка](https://github.com/AlexeyKulikovZ/Data_Science_projects/tree/main/Telecom%20company)| Нужно спрогнозировать, уйдёт клиент из банка в ближайшее время или нет. Нам предоставлены исторические данные о поведении клиентов и расторжении договоров с банком.	| Предобработка данных, исследовательский анализ данных, описательная статистика, Pandas, Numpy, Matplotlib, Seaborn, sklearn.|
  | [Подготовка модели для предприятия по очистки руды](https://github.com/AlexeyKulikovZ/Data_Science_projects/tree/main/Mining%20company)| Разработка модели, прогнозирующей коэффициент восстановления золота из золотосодержащей руды | Pandas, Numpy, Matplotlib, Seaborn, sklearn |
