@@ -1,5 +1,6 @@
 # Описание проекта
-В данном проекте на основе исторических данных построена модель для прогнозирования ухода клиентов из банка. Задача получить меру F1 > 0.59. 
+
+Forecast of customer churn based on historical data of customers behavior and agreement (between a bank and a customer) termination. The goal to get F1 > 0.59.
 ## Задачи проекта: 
 Задача получить меру F1 > 0.59 для различных моделей машинного обучения.
 ## Используемый стэк инструментов
