@@ -1,9 +1,9 @@
-# Описание проекта
+# Project Description
 
-Forecast of customer churn based on historical data of customers behavior and agreement (between a bank and a customer) termination. The goal to get F1 > 0.59.
-## Задачи проекта: 
+Forecast of customer churn based on historical data of customers behavior. The goal to get F1 > 0.59.
+## Goals of the project: 
 Задача получить меру F1 > 0.59 для различных моделей машинного обучения.
-## Используемый стэк инструментов
+## Instruments & technologies
 - Python
 - Pandas
 - numpy
@@ -14,4 +14,4 @@ Forecast of customer churn based on historical data of customers behavior and ag
 - проверка статистических гипотез
 - Seaborn
 - SciPy
-## Проект завершен
+## Project finished
