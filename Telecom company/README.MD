@@ -1,17 +1,16 @@
-# Описание проекта
-В данном проекте был произведен анализ тарифных планов телеком компании.
-## Задачи проекта: 
-Был определен наиболее выгодный для телеком компании (с точки зрения выручки). Был произведен статистический анализ данных. На основании результатов т-теста были проверены гипотезы:  
+# Project Description
+Analysis of telecom tariffs.
+## Project goals: 
+Telecom tariffs analysis based on a small sample of customers. Necessary to analyze behavior of customers and draw a conclusion - which tariff is better in terms of the financial component. Based on result of t-test hypotheses were checked:  
 - Среднее значение выручки на одного клиента в месяц по тарифу "Ультра" равно средней выручке на одного клиента в месяц по тарифу "Смарт".
 - Среднее значение выручки на одного клиента в месяц по региону Москва равно средней выручке на одного клиента в месяц по остальным регионам.
-## Используемый стэк инструментов
+## Instruments & technologies
 - Python
 - Pandas
 - numpy
 - Matplotlib
-- предобработка данных
-- исследовательский анализ данных
-- описательная статистика
+- EDA
+- Descreptive statistics
 - Seaborn
 - SciPy
-## Проект завершен
+## Project finished
