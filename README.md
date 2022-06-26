@@ -1,6 +1,6 @@
 # Data_Science_projects
 
-В этой папке представлены учебные проекты с курса Яндекс.Практикума:
+This folder contains educational projects in the field of Data Analytics & Data Sciecne of Yandex company bootcamp.
 
 
 |	Проект |	Задача проекта	|	Использованные инструменты |
