@@ -1,18 +1,17 @@
-# Описание проекта
-В данном проекте была построена модель предсказания оттока клиентов из телеком компании.
-## Задачи проекта: 
-Были опробованы различные модели машинного обучения (классические модели и нейронные сети). Задачей являлось получить максимальные метрики AUC-ROC, precision, recall.
-## Используемый стэк инструментов
+# Project Description
+Customer churn prediction at the Telecom company
+## Project goals: 
+Tried variety of ML models (classical models & neural networks). The goal to get the model with maximized metrics: AUC-ROC, precision, recall.
+## Instruments & technologies
 - Python
 - Pandas
 - numpy
 - Matplotlib
-- предобработка данных
-- исследовательский анализ данных
-- описательная статистика
-- проверка статистических гипотез
+- EDA
+- descriptive statistics
+- verifiaction of statistical hypotheses
 - Seaborn
 - SciPy
 - Sklearn
 - Keras
-## Проект завершен
+## Project finished
