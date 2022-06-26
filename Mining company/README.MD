@@ -1,15 +1,14 @@
-# Описание проекта
-В данном проекте построена модель для расчета метрики sMAPE (Symmetric Mean Absolute Percentage Error), используемой на металлургическом комбинате. Метрика показывает на сколько предсказание концентрации серебра отличается от фактического значения концентрации после технологического процесса очистки. 
-## Задачи проекта: 
-Задача проекта предсказать коэффициент оцичстки серебра на метлаллургическом комбинате.
-## Используемый стэк инструментов
+# Project description
+In this project the model with sMAPE (Symmetric Mean Absolute Percentage Error) metric was built. The model was used for steel manufacturing plant. This metrics indicates the diffrerence between fact vs plan of gold concentration after technological refining if gold ore.
+## Project goals: 
+The goal of the project to predict rate of gold refining.
+## Instruments & technologies
 - Python
 - Pandas
 - numpy
 - Matplotlib
-- предобработка данных
-- исследовательский анализ данных
-- описательная статистика
+- EDA
+- descriptive statistics
 - Seaborn
 - SciPy
-## Проект завершен
+## Project finished
